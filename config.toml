@@ -1,0 +1,4 @@
+baseURL = "http://talkasrul.github.io/"
+languageCode = "en-us"
+title = "Asrul Anis"
+theme = "ananke"
